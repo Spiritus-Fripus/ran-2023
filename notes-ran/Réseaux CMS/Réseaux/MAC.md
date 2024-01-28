@@ -1,0 +1,5 @@
+**L'adresse MAC** (Media Access Control), également connue sous le nom d'adresse matérielle, est un identifiant unique attribué à chaque carte réseau ou interface réseau d'un appareil informatique. Cette adresse est utilisée au niveau de la couche de liaison de données du modèle OSI (Open Systems Interconnection) pour identifier de manière unique chaque dispositif connecté à un réseau local (LAN).
+
+L'adresse MAC est composée de 12 caractères hexadécimaux, généralement représentés sous la forme de six paires de chiffres hexadécimaux séparés par des deux-points (par exemple, "00:1A:2B:3C:4D:5E"). Chaque fabricant de cartes réseau est responsable de l'attribution des adresses MAC à ses dispositifs, ce qui garantit leur unicité dans le monde entier.
+
+**L'adresse MAC joue un rôle essentiel dans le processus de commutation Ethernet, permettant aux dispositifs de déterminer à quel périphérique envoyer des trames de données sur un réseau local. Elle est également utilisée pour garantir que les données atteignent la destination correcte dans un réseau local.**

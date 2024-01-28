@@ -1,0 +1,56 @@
+body {
+    padding: 100px
+}
+
+/* ----------------------- header ------------- */
+.nav-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.nav-h1 {
+    display: flex;
+    justify-content: center;
+}
+
+/* ----------------------- main-flex --------------*/
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+.flex h2 {
+    text-align: center;
+    margin: 50px 0;
+}
+.flex iframe {
+    align-self: center;
+    border-radius: 30px;
+}
+.container-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+}
+.container-top p {
+    padding: 50px 0;
+}
+
+.container-image {
+    margin: 50px 0;
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-gap: 50px ;
+    grid-auto-rows: minmax(50px, auto);
+}
+.container-image img {
+    border-radius: 30px;
+}
+/* ------------------ bootstrap ----------------- */
+.iframe {
+    border-radius: 30px;
+}
