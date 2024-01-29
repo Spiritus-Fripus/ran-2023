@@ -3,12 +3,12 @@ On peut prendre l'exemple d'un jeu vidéo , une fonction start() permettrai de d
 Les fonctions ont un rôle important dans les algorithme car elle permettent de répondre à un problème afin d'obtenir le résultat attendu.
 Il est possible de créer une bibliothèque de fonction réutilisable dans divers programme grâce aux imports.
 
-voici quelques exemples de fonctions sous python : 
+voici quelques exemples de fonctions sous python :
 
 ```python
 # Exemple d'un programme permettant de calculer l'année prochaine a partir de l'année actuelle
 
-# on utilise def pour definir notre fonction 
+# on utilise def pour definir notre fonction
 def next_year():
 # year est notre variable locale
 	year = 2023
@@ -22,12 +22,12 @@ def next_year():
 next_year()
 ```
 
-Il est possible d'utiliser une variable globale propre aux programme en cours en utilisant  la fonction global
+Il est possible d'utiliser une variable globale propre aux programme en cours en utilisant la fonction global
 
 ```python
 # Exemple d'un programme permettant de calculer l'année prochaine a partir de l'année actuelle
 
-# on utilise def pour definir notre fonction 
+# on utilise def pour definir notre fonction
 def next_year():
 # year est notre variable globale
 	global year
@@ -88,14 +88,14 @@ max_value = max(a,b)
 print("la valeur max est", max_value)
 ```
 
-Fonction récursive (une fonction qui s'appelle elle même),  possibilité de créer des boucles en appelant la fonction dans la fonction:
+Fonction récursive (une fonction qui s'appelle elle même), possibilité de créer des boucles en appelant la fonction dans la fonction:
 
 ```python
 # création d'une fonction récursive
 def add(a):
 	a += 1
 	print(a)
-# récusivité en appelant la fonction 
+# récusivité en appelant la fonction
 	add(a)
 # le programme va boucler a l'infini en ajoutant +1 a la variable a
 add(1)

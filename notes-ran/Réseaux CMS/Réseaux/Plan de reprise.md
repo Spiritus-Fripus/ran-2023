@@ -1,4 +1,5 @@
 # **PRA** Plan de reprise d'activité
+
 La mise en place d'un Plan de Reprise d'Activité (PRA) est une étape essentielle pour assurer la continuité des opérations d'une entreprise ou d'une organisation en cas de perturbation majeure, telle qu'une catastrophe naturelle, une panne informatique grave, une cyberattaque, ou tout autre événement susceptible d'interrompre les activités normales. Voici les étapes clés de la mise en place d'un PRA :
 
 1. Identification des risques : La première étape consiste à identifier les risques potentiels auxquels l'entreprise est exposée. Cela peut inclure des risques naturels (incendies, inondations), des risques technologiques (pannes matérielles, cyberattaques), des risques humains (grève, départ soudain de personnel clé), etc.
@@ -16,7 +17,9 @@ La mise en place d'un Plan de Reprise d'Activité (PRA) est une étape essentiel
 7. Surveillance et amélioration continue : Une fois les opérations reprises, il est important de surveiller la situation de près pour s'assurer que tout fonctionne correctement. De plus, il est recommandé d'effectuer régulièrement des revues du PRA afin de l'améliorer en fonction des retours d'expérience et des évolutions de l'entreprise.
 
 **En résumé, un Plan de Reprise d'Activité vise à assurer la résilience d'une entreprise face aux perturbations majeures en identifiant les risques, en évaluant les impacts, en définissant des objectifs, en élaborant un plan détaillé, en testant et en mettant en œuvre ce plan, puis en surveillant et en améliorant continuellement la stratégie de reprise d'activité. Cela garantit que l'entreprise peut maintenir ses opérations critiques même en cas de crise.**
-# **PCA**  Plan de continuité de l'activité 
+
+# **PCA** Plan de continuité de l'activité
+
 La mise en place d'un Plan de Continuité d'Activité (PCA) est un processus visant à assurer la continuité des opérations d'une entreprise ou d'une organisation en cas de perturbation majeure. Voici un résumé des principales étapes pour mettre en place un PCA :
 
 1. Identification des risques : La première étape consiste à identifier les risques potentiels qui pourraient perturber les activités de l'entreprise, tels que les catastrophes naturelles, les pannes de systèmes, les cyberattaques, les grèves, etc.

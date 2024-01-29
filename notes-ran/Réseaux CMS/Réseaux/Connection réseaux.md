@@ -33,21 +33,20 @@ _Exemple:_
 Impossible de connecter les 3 ensembles
 
 → SWITCH
-	→ Pc secrétaire
-	→ Pc comptable
-	→ Pc commercial
+→ Pc secrétaire
+→ Pc comptable
+→ Pc commercial
 
 L’ensemble est relié
 
 On peut également connecter a un Switch différent éléments comme des imprimantes, scanner, téléphone, caméra etc… sur un réseau local
 
-Exemple: 
+Exemple:
 
 → SWITCH
-	→ Pc 1
-	→ Pc 2
-	→ Pc 3
-	→ Imprimante
-	→ Caméra
-	→ Wifi
-
+→ Pc 1
+→ Pc 2
+→ Pc 3
+→ Imprimante
+→ Caméra
+→ Wifi

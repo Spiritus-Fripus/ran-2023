@@ -1,4 +1,5 @@
 # ADSL
+
 Un réseau ADSL (Asymmetric Digital Subscriber Line) est une technologie de communication qui permet la transmission de données sur les lignes téléphoniques en utilisant une large bande passante. Voici un résumé du fonctionnement d'un réseau ADSL :
 
 1. Ligne téléphonique : Un réseau ADSL utilise une ligne téléphonique classique en cuivre déjà existante chez l'abonné. Cette ligne est divisée en deux canaux distincts : un pour la voix (téléphonie) et un pour les données (Internet).
@@ -19,8 +20,10 @@ Un réseau ADSL (Asymmetric Digital Subscriber Line) est une technologie de comm
 
 **En résumé, l'ADSL est une technologie de communication qui utilise une ligne téléphonique en cuivre existante pour fournir des connexions Internet à haut débit avec une bande passante asymétrique. Elle permet une coexistence harmonieuse de la téléphonie et de l'Internet sur la même ligne, tout en offrant des débits variables en fonction de la distance de l'abonné par rapport au central téléphonique.**
 
---- 
+---
+
 # Fibre Optique
+
 Le réseau fibre optique est une technologie de communication qui repose sur la transmission de données à travers des fils de verre ou de plastique appelés fibres optiques. Voici un résumé du fonctionnement d'un réseau fibre optique :
 
 1. Transmission par la lumière : Le cœur d'un réseau fibre optique est constitué de fines fibres en verre ou en plastique qui agissent comme un guide pour la lumière. La lumière est utilisée pour transmettre des données à des vitesses extrêmement élevées.

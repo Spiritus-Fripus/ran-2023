@@ -1,17 +1,17 @@
 .header-top-row img {
-    width: 128px;
-    height: 128px;
+  width: 128px;
+  height: 128px;
 }
 .header-top-row {
-    margin: 0 5%; 
-    background-color: red;
+  margin: 0 5%;
+  background-color: red;
 }
 .header-nav-row {
-    text-align: center;
-    background-color: aqua;
-    padding: 1%;
+  text-align: center;
+  background-color: aqua;
+  padding: 1%;
 }
 /* ------------------------------------------------------------ */
 .banniere-container img {
-    width: 100%;
+  width: 100%;
 }

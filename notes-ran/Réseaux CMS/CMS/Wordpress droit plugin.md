@@ -7,9 +7,9 @@ drwxr-xr-x  5 www-data root 4096 17 nov.  16:40 modulo
 drwxr-xr-x 13 www-data root 4096 17 nov.  16:20 phpmyadmin
 ```
 
-ou 
+ou
+
 ```shell
 chown -R www-data *
 # donne accés a www-data a tout le dossier parent
 ```
-

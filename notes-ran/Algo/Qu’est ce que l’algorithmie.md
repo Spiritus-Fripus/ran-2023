@@ -1,13 +1,9 @@
 # Algorithmie ?
 
 - Méthode pour résoudre un problème systématique
-    
-    le théorème de Pythagore est un algorithme 
-    
+  le théorème de Pythagore est un algorithme
 - L’objectif essentiel d’un algorithme est d’obtenir une sortie spécifique
-    
-    Ne pas confondre algorithme et programmation informatique
-    
+  Ne pas confondre algorithme et programmation informatique
 
 ## Domaine d’applications
 
@@ -18,41 +14,38 @@
 ## Représentation
 
 - Le logigramme
-    
-    Un logigramme est un outil qui permet de visualiser de façon séquentielle et logique les actions a mener et les décisions a prendre pour atteindre un objectif défini.
-    
-    1. Exemple:
-        
-        En mathématiques , determiner si un nombre est pair ou impair
-        
-        (modulo= reste opération/division)
-        
-        (résultat d’une division = quotient)
-        
-        Modulo par 2 = toujours nombre entier 0 ou 1
-        
-        Start→
-        
-        InputN→
-        
-        →Remainder=N modulo 2
-        
-        →Remainder = 0?
-        
-        →Yes→Answer=Even
-        
-        →No→Answer=ODD
-        
-        →Output Answer
-        
-        →End
-        
+  Un logigramme est un outil qui permet de visualiser de façon séquentielle et logique les actions a mener et les décisions a prendre pour atteindre un objectif défini.
+  1. Exemple:
+
+     En mathématiques , determiner si un nombre est pair ou impair
+
+     (modulo= reste opération/division)
+
+     (résultat d’une division = quotient)
+
+     Modulo par 2 = toujours nombre entier 0 ou 1
+
+     Start→
+
+     InputN→
+
+     →Remainder=N modulo 2
+
+     →Remainder = 0?
+
+     →Yes→Answer=Even
+
+     →No→Answer=ODD
+
+     →Output Answer
+
+     →End
 
 ## La programmation informatique
 
 - Machine=ordinateur
 - Objet considéré comme <idiot> qui se content de faire à la lettre ce que lui dictez de faire
-    - Ensemble de circuits logiques traitant des informations binaires (langage machine): des 0 et des 1
+  - Ensemble de circuits logiques traitant des informations binaires (langage machine): des 0 et des 1
 
 # Langage de programmation
 

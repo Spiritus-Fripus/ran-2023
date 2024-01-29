@@ -1,4 +1,3 @@
-
 # Notes
 
 **Present / (Direct Action)**
@@ -34,7 +33,7 @@ Can/May/would/could/should pas conjugable
 
 Would/Could/Hald = do not pronunce the L
 
-Comparisons : 
+Comparisons :
 
 Big —> Bigger —→ the Biggest
 
@@ -66,9 +65,9 @@ Exemple: I have some information for you
 
 Sugar/water/pasta : tout ce qui ne peut pas se compter , jamais de pluriel !
 
-I’m looking  forward to meeting you = formule de politesse Meet devient Meeting
+I’m looking forward to meeting you = formule de politesse Meet devient Meeting
 
-Finding my next gig 
+Finding my next gig
 
 gig = CDD/contrat/job
 
@@ -76,7 +75,7 @@ Hope /= Hoppe
 
 I’m hoping = j’espère
 
-Job hopping = changer de travail fréquemment 
+Job hopping = changer de travail fréquemment
 
 Cover letter = lettre de motivation
 

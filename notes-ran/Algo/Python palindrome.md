@@ -1,4 +1,5 @@
 # 1ere Méthode
+
 ```python
 word = input("saisir un mot : ")
 
@@ -24,7 +25,9 @@ else:
 
     print("ce n'est pas un palindrome.")
 ```
+
 # 2eme méthode
+
 ```python
 word= input("Saisir un mot: ")
 
@@ -36,7 +39,7 @@ for letter in word:
 
     drow = letter + drow
 
-  
+
 
 print(drow)
 
@@ -48,4 +51,3 @@ else:
 
     print("ce n'est pas un palindrome")
 ```
-

@@ -22,7 +22,7 @@ for i in range(0,len(mot)):
 
 **nom_fonction**(_param_)
 une fonction va faire un traitement sur des paramètre afin d'obtenir un résultat
-**len**(_mot_) 
+**len**(_mot_)
 la fonction **len** va nous donner la longueur
 
 # Double Loop
@@ -36,27 +36,27 @@ for i in range(0,5)
 
 | i   | j   | mot[i] | mot[j] |
 | --- | --- | ------ | ------ |
-| 0   | 0   | **H**     | **H**      |
+| 0   | 0   | **H**  | **H**  |
 | 0   | 1   | H      | e      |
 | 0   | 2   | H      | l      |
 | 0   | 3   | H      | l      |
 | 0   | 4   | H      | o      |
 | --- | --- | ---    | ---    |
 | 1   | 0   | e      | H      |
-| 1   | 1   | **e**      | **e**     |
+| 1   | 1   | **e**  | **e**  |
 | 1   | 2   | e      | l      |
 | 1   | 3   | e      | l      |
-| 1   | 4   | e      | o       |
+| 1   | 4   | e      | o      |
 
 # While
 
 Boucle _while_ (tant que)
-= Boucle conditionnelle 
+= Boucle conditionnelle
 = Fonctionne avec une condition de boucle
 
 ```python
 while condition : -------> # on boucle si la condition est vérifiée
-	instruction : 
+	instruction :
 ```
 
 _Exemple:_

@@ -1,62 +1,65 @@
 # Le binaire
+
 quartet = 4 chiffres = 4 bits
 
 | Bit 3 | Bit 2 | Bit 1 | Bit 0 |
-|-------|-------|-------|-------|
-|   0   |   0   |   0   |   0   |
-|   0   |   0   |   0   |   1   |
-|   0   |   0   |   1   |   0   |
-|   0   |   0   |   1   |   1   |
-|   0   |   1   |   0   |   0   |
-|   0   |   1   |   0   |   1   |
-|   0   |   1   |   1   |   0   |
-|   0   |   1   |   1   |   1   |
-|   1   |   0   |   0   |   0   |
-|   1   |   0   |   0   |   1   |
-|   1   |   0   |   1   |   0   |
-|   1   |   0   |   1   |   1   |
-|   1   |   1   |   0   |   0   |
-|   1   |   1   |   0   |   1   |
-|   1   |   1   |   1   |   0   |
-|   1   |   1   |   1   |   1   |
+| ----- | ----- | ----- | ----- |
+| 0     | 0     | 0     | 0     |
+| 0     | 0     | 0     | 1     |
+| 0     | 0     | 1     | 0     |
+| 0     | 0     | 1     | 1     |
+| 0     | 1     | 0     | 0     |
+| 0     | 1     | 0     | 1     |
+| 0     | 1     | 1     | 0     |
+| 0     | 1     | 1     | 1     |
+| 1     | 0     | 0     | 0     |
+| 1     | 0     | 0     | 1     |
+| 1     | 0     | 1     | 0     |
+| 1     | 0     | 1     | 1     |
+| 1     | 1     | 0     | 0     |
+| 1     | 1     | 0     | 1     |
+| 1     | 1     | 1     | 0     |
+| 1     | 1     | 1     | 1     |
 
 Octet = 8 chiffres = 8 bits
 
 | Bit 7 | Bit 6 | Bit 5 | Bit 4 | Bit 3 | Bit 2 | Bit 1 | Bit 0 |
-|-------|-------|-------|-------|-------|-------|-------|-------|
-|   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| 0     | 0     | 0     | 0     | 0     | 0     | 0     | 0     |
 
 _Exemple:_
-238 en octet =  *1 1 1 0 1 1 1 0*
+238 en octet = _1 1 1 0 1 1 1 0_
 _1_=**128** _1_=**64** _1_=**32** _0_=**16** _1_=**8** _1_=**4** _1_=**2** _0_=**1**
 
 37843
 **32768 16384 8192 4096 2048 1024 512 256 128 64 32 16 8 4 2 1**
-_1001 0011 1101 0011_   
+_1001 0011 1101 0011_  
 (**93D3**)
 
---- 
+---
+
 # Hexadecimal
+
 Permet de simplifier la lecture du binaire (s'arrete à F)
 
 | Binaire (4 bits) | Hexadécimal |
-|------------------|-------------|
-|       0000       |      0      |
-|       0001       |      1      |
-|       0010       |      2      |
-|       0011       |      3      |
-|       0100       |      4      |
-|       0101       |      5      |
-|       0110       |      6      |
-|       0111       |      7      |
-|       1000       |      8      |
-|       1001       |      9      |
-|       1010       |      A      |
-|       1011       |      B      |
-|       1100       |      C      |
-|       1101       |      D      |
-|       1110       |      E      |
-|       1111       |      F      |
+| ---------------- | ----------- |
+| 0000             | 0           |
+| 0001             | 1           |
+| 0010             | 2           |
+| 0011             | 3           |
+| 0100             | 4           |
+| 0101             | 5           |
+| 0110             | 6           |
+| 0111             | 7           |
+| 1000             | 8           |
+| 1001             | 9           |
+| 1010             | A           |
+| 1011             | B           |
+| 1100             | C           |
+| 1101             | D           |
+| 1110             | E           |
+| 1111             | F           |
 
 _exemple:_
 _1010 1100 1011 0101 1111 0011_ = **ACB5F3**
@@ -65,11 +68,12 @@ En dev on utilise l'hexadecimal pour les couleur en _RGB_
 **AC** = le rouge
 **B5** = le vert
 **F3** = le bleu
-Converti en décimal cela donne: _AC_ =172 _B5_=181 _F3_= 243 
+Converti en décimal cela donne: _AC_ =172 _B5_=181 _F3_= 243
+
 ```css
 body {
-background-color: #ACB5F3;
-color: 172 181 243;
+  background-color: #acb5f3;
+  color: 172 181 243;
 }
 ```
 
@@ -88,8 +92,10 @@ Prenons le nombre binaire `110110101011` et convertissons-le en hexadécimal :
 
 Donc, `110110101011` en binaire est équivalent à `D5` en hexadécimal.
 
---- 
+---
+
 # Décalage et rotation
+
 Le décalage et la rotation de bits sont des opérations courantes dans la programmation informatique, généralement utilisées pour manipuler des valeurs binaires ou pour effectuer des opérations de manipulation de bits plus avancées. Voici ce que sont le décalage et la rotation de bits :
 
 **1. Décalage de bits (Bit Shifting)** :

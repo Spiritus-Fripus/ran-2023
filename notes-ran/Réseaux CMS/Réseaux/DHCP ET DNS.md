@@ -1,18 +1,21 @@
 Le **DHCP (Dynamic Host Configuration Protocol)** et le **DNS (Domain Name System)** sont deux composants essentiels des réseaux informatiques qui remplissent des fonctions différentes mais complémentaires :
 
 **DHCP (Dynamic Host Configuration Protocol)** :
+
 - Le DHCP est un protocole réseau qui permet aux appareils (comme les ordinateurs, les smartphones, les imprimantes, etc.) de recevoir automatiquement une configuration réseau lorsqu'ils se connectent à un réseau local. Cette configuration inclut généralement des informations telles qu'une adresse IP, un masque de sous-réseau, une passerelle par défaut, et les adresses IP des serveurs DNS.
 - Le DHCP simplifie la gestion des adresses IP en attribuant dynamiquement des adresses aux appareils, ce qui évite les conflits d'adresses IP et facilite la gestion des réseaux.
 - En utilisant le DHCP, les administrateurs réseau peuvent centraliser la gestion des adresses IP, ce qui est particulièrement utile dans les réseaux de grande envergure.
 
 **DNS (Domain Name System)** :
+
 - Le DNS est un système qui permet de traduire les noms de domaine conviviaux pour les humains (comme www.example.com) en adresses IP numériques utilisées par les ordinateurs pour identifier les serveurs et les services sur Internet.
 - Il fonctionne comme un annuaire de l'Internet en associant des noms de domaine à des adresses IP. Par exemple, lorsque vous saisissez un nom de domaine dans votre navigateur Web, le DNS se charge de trouver l'adresse IP correspondante pour que votre appareil puisse accéder au site Web associé.
 - Le DNS joue un rôle fondamental dans la navigation sur Internet et la résolution des noms en adresses IP. Il permet de simplifier l'accès aux ressources en ligne en utilisant des noms de domaine faciles à mémoriser plutôt que des adresses IP complexes.
 
 **En résumé, le DHCP facilite l'attribution automatique des configurations réseau aux appareils sur un réseau local, tandis que le DNS permet de traduire les noms de domaine en adresses IP pour simplifier l'accès aux ressources sur Internet. Ensemble, ils contribuent à rendre l'expérience de navigation sur le Web et la gestion des réseaux plus efficaces.**
 
---- 
+---
+
 Voici des exemples de configuration simplifiée pour le **DHCP (Dynamic Host Configuration Protocol)** et le **DNS (Domain Name System)** :
 
 _Exemple de configuration DHCP :_

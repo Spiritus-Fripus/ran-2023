@@ -29,4 +29,4 @@ y_non_valide = len(sudoku_non_valide[0][0])
 
 for y in range(len(sudoku_valide)):
     for x in range(len(sudoku_valide[0])):
-        if s
+        if 

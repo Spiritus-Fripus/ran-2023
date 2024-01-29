@@ -1,16 +1,22 @@
 # Cable ethernet
+
 **Le cable ethernet est limité a 100m**
-**Le minimum pour nos jours est la classe 5E** 
+**Le minimum pour nos jours est la classe 5E**
+
 ## Classe Ethernet
+
 - 5 (2.50 Mbits/s)
 - 5E (1 Gbits/s) _unshielded_
 - 6 (10 Gbits/s)
 - 7 (40 Gbits/s)
 - 8 (40 Gbits/s)
-### RJ45 
+
+### RJ45
+
 Les câbles RJ45 droit et croisé sont deux types de câbles Ethernet utilisés pour connecter des périphériques réseau, tels que des ordinateurs, des routeurs et des commutateurs. Voici une brève résumé de leurs principales différences :
 
 1. Câble RJ45 droit :
+
    - Utilisé pour relier des périphériques différents, par exemple, un ordinateur à un commutateur ou un routeur à un commutateur.
    - Les broches à une extrémité du câble sont câblées de la même manière que les broches à l'autre extrémité.
    - La norme de câblage la plus courante pour un câble droit est appelée "T568B".

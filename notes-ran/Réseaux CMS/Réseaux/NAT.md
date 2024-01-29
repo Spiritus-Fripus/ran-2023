@@ -14,7 +14,8 @@ Le Network Address Translation (NAT), en français la "Traduction d'Adresse Rés
 
 **En résumé, le NAT est une technique de routage qui permet à plusieurs dispositifs d'un réseau local de partager une seule adresse IP publique pour accéder à Internet. Il réalise cette traduction d'adresses en maintenant une table de correspondance entre les adresses IP privées internes et l'adresse IP publique du routeur, tout en garantissant un niveau de sécurité accru en masquant les dispositifs internes aux attaques provenant d'Internet.**
 
---- 
+---
+
 _Un exemple courant de NAT (Network Address Translation) se produit dans un réseau domestique lorsque plusieurs appareils partagent une seule adresse IP publique pour accéder à Internet. Voici comment cela fonctionne :_
 
 Imaginez un réseau domestique avec plusieurs appareils connectés, tels que des ordinateurs, des smartphones et une console de jeu, tous connectés à un routeur domestique. Le routeur dispose d'une seule adresse IP publique fournie par le fournisseur d'accès à Internet (FAI).

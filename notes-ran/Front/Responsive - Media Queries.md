@@ -15,18 +15,18 @@
 
 ```css
 h1 {
-color: blue;
+  color: blue;
 }
 
-@media (max-width:800px) {
-	h1 {
-	color: red;
-	}
+@media (max-width: 800px) {
+  h1 {
+    color: red;
+  }
 }
 ```
 
 **Média Queries**
-On utilise la balise **@media** avec une taille  _(max-width:800px)_ 
+On utilise la balise **@media** avec une taille _(max-width:800px)_
 Les propriétés s'appliquerons quand l'écran passe en dessous de 800px
 
 _exemple taille écran_:

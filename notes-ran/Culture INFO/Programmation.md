@@ -1,28 +1,29 @@
 # Langage de Programmation
 
 1. Analyse des besoins
-	- les développeurs travaillent en étroite collaboration avec les clients
+   - les développeurs travaillent en étroite collaboration avec les clients
 2. Conception
-	- plan détaillés dans les logiciels (maquettes)
+   - plan détaillés dans les logiciels (maquettes)
 3. Implementation
-	- Code
+   - Code
 4. Test et débogage
-	- Test en corrections en tout genre
+   - Test en corrections en tout genre
 5. Documentation
-	- Faire une doc
+   - Faire une doc
 6. Déploiement
-	- Déploiement du logiciel/mise en ligne
-7. Maintenance 
-	- Par rapport au logiciel et demandes du client
+   - Déploiement du logiciel/mise en ligne
+7. Maintenance
+   - Par rapport au logiciel et demandes du client
 
 - _Difference entre language de bas niveau et de programmation:_
-	- Lisibilité et compréhension
-	- Productivité
-	- Portabilité
-	- Framework/Bibliothèque
-	- sécurité/stabilité
+  - Lisibilité et compréhension
+  - Productivité
+  - Portabilité
+  - Framework/Bibliothèque
+  - sécurité/stabilité
 
---- 
+---
+
 # ET Inclusif / OU Exclusif
 
 1. **ET (AND) :** L'opérateur logique "ET" (AND en anglais) est utilisé en logique binaire pour combiner deux valeurs ou expressions. Lorsque vous utilisez l'opérateur "ET", le résultat est vrai (1) uniquement lorsque les deux valeurs ou expressions en question sont vraies (1). Si l'une ou l'autre est fausse (0), le résultat est faux (0). En logique symbolique, "ET" est généralement représenté par le symbole "&" ou "∧".
@@ -33,13 +34,14 @@
 
 4. **Exclusif (OU) :** Lorsque vous dites "OU exclusif", cela signifie que vous choisissez l'une ou l'autre condition, mais pas les deux en même temps. En logique binaire, cela correspond à l'opérateur "OU exclusif" (XOR), où le résultat est vrai (1) si exactement l'une des deux conditions est vraie, mais pas les deux. Si les deux conditions sont vraies ou fausses, le résultat est faux (0).
 
-## _Exemple:_ 
+## _Exemple:_
 
 Pour illustrer l'utilisation des opérateurs logiques binaires (ET, OU, inclusif, exclusif) dans un tableau binaire, nous pouvons utiliser un tableau de vérité. Un tableau de vérité montre toutes les combinaisons possibles de valeurs d'entrée et le résultat de l'opération logique. Voici un exemple simple :
 
 Supposons que nous ayons deux variables binaires, A et B, et que nous souhaitions explorer les opérations logiques ET, OU, inclusif et exclusif entre elles.
 
 1. Variables d'entrée :
+
    - A = 1 signifie que la variable A est vraie.
    - B = 0 signifie que la variable B est fausse.
 
@@ -51,12 +53,12 @@ Supposons que nous ayons deux variables binaires, A et B, et que nous souhaition
 
 Voici le tableau de vérité correspondant :
 
-| A | B | A ET B | A OU B | A ET OU B | A OU EXCLUSIF B |
-|---|---|-------|-------|-----------|-----------------|
-| 0 | 0 |   0   |   0   |     0     |       0         |
-| 0 | 1 |   0   |   1   |     1     |       1         |
-| 1 | 0 |   0   |   1   |     1     |       1         |
-| 1 | 1 |   1   |   1   |     1     |       0         |
+| A   | B   | A ET B | A OU B | A ET OU B | A OU EXCLUSIF B |
+| --- | --- | ------ | ------ | --------- | --------------- |
+| 0   | 0   | 0      | 0      | 0         | 0               |
+| 0   | 1   | 0      | 1      | 1         | 1               |
+| 1   | 0   | 0      | 1      | 1         | 1               |
+| 1   | 1   | 1      | 1      | 1         | 0               |
 
 Dans ce tableau de vérité, chaque ligne représente une combinaison de valeurs possibles pour les variables A et B. Les colonnes suivantes montrent les résultats des opérations logiques correspondantes pour chaque combinaison.
 
@@ -67,36 +69,43 @@ Dans ce tableau de vérité, chaque ligne représente une combinaison de valeurs
 
 Cela illustre comment les opérations logiques binaires fonctionnent en utilisant un tableau de vérité avec des variables binaires A et B.
 
---- 
+---
+
 # Différents langages
 
 ```#
 pour i de 0 à 4
-	ecrire i 
+	ecrire i
 fpour
 ```
+
 ```python
 for i in range(5)
 	print(i)
 ```
+
 ```c++
 for (int i=0; i <5; i++) {
 const << i << endl;
 }
 ```
+
 ```java
 for (int i=0; i<5; i++) {
 system.out.print/n (i)
 }
 ```
+
 ```js
 for (let i=0; i<5 , i++) {
 console.log(i);
 }
 ```
+
 ```c#
 for (int i=0; i<5;i++) {
 console.Writeline(i);
 }
 ```
---- 
+
+---

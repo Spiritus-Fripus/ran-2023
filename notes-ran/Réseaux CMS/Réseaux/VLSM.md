@@ -12,7 +12,8 @@ Le VLSM (Variable Length Subnet Masking), en français "Masquage de sous-réseau
 
 **En résumé, le VLSM est une technique de sous-réseauage qui permet de diviser un réseau IP en sous-réseaux de tailles variables en utilisant des masques de sous-réseau de longueurs différentes. Cela permet une utilisation plus efficace des adresses IP en évitant le gaspillage, mais peut être plus complexe à mettre en œuvre que le sous-réseauage classique avec des masques égaux.**
 
---- 
+---
+
 L'utilisation de VLSM (Variable Length Subnet Masking) est courante dans la configuration de réseaux où vous avez besoin de sous-réseaux de tailles variables pour optimiser l'utilisation des adresses IP.
 
 _Voici un exemple d'utilisation de VLSM dans un réseau :_
@@ -20,11 +21,13 @@ _Voici un exemple d'utilisation de VLSM dans un réseau :_
 Supposons que vous ayez une adresse IP publique 203.0.113.0/24 attribuée à votre organisation par votre fournisseur d'accès à Internet (FAI). Vous voulez diviser cette plage d'adresses en sous-réseaux pour différents départements de votre entreprise, tout en minimisant le gaspillage d'adresses IP.
 
 1. **Sous-réseau du département des ventes** :
+
    - Vous attribuez une partie de la plage à ce département.
    - Vous pouvez choisir d'allouer 64 adresses IP pour ce sous-réseau en utilisant un masque de sous-réseau /26.
    - La plage serait, par exemple, 203.0.113.0/26, avec des adresses allant de 203.0.113.1 à 203.0.113.62.
 
 2. **Sous-réseau du département de la comptabilité** :
+
    - Vous attribuez une autre partie de la plage à ce département.
    - Vous pouvez choisir d'allouer 32 adresses IP pour ce sous-réseau en utilisant un masque de sous-réseau /27.
    - La plage serait, par exemple, 203.0.113.64/27, avec des adresses allant de 203.0.113.65 à 203.0.113.94.
